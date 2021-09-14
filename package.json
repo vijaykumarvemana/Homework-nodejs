@@ -1,0 +1,28 @@
+{
+  "name": "Homework-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaykumarvemana/Homework-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaykumarvemana/Homework-nodejs/issues"
+  },
+  "homepage": "https://github.com/vijaykumarvemana/Homework-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
